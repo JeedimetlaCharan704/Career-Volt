@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/auth/(.*)",
+      "destination": "https://careervolt-auth.onrender.com/api/auth/$1"
+    },
+    {
+      "source": "/api/(.*)",
+      "destination": "https://careervolt-api.onrender.com/api/$1"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
