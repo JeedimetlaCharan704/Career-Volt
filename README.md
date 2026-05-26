@@ -215,7 +215,7 @@ This is a **commercial product** — not open source.
 - ✅ Lifetime updates
 
 ### How to purchase:
-1. Contact: **[your-email@example.com]**
+1. Contact: **[jeedimetlacharan213@gmail.com]**
 2. Payment: UPI / PayPal / Bank Transfer
 3. Delivery: Private GitHub repository access within 24 hours
 
@@ -260,6 +260,6 @@ You may NOT:
 Built with ⚡ by **CareerVolt**  
 *AI Career Analysis Platform · v5.0.0*
 
-📧 [your-email@example.com] • 💻 https://career-volt.vercel.app
+📧 [jeedimetlacharan213@gmail.com] • 💻 https://career-volt.vercel.app
 
 </div>
